@@ -1,0 +1,8 @@
+T = 50, M = 2, alpha = 0.9 -> Mejor Distancia: 1.64639e+06
+T = 50, M = 2, alpha = 0.95 -> Mejor Distancia: 1.6577e+06
+T = 50, M = 8, alpha = 0.9 -> Mejor Distancia: 1.65147e+06
+T = 50, M = 8, alpha = 0.95 -> Mejor Distancia: 1.64434e+06
+T = 100, M = 2, alpha = 0.9 -> Mejor Distancia: 1.68296e+06
+T = 100, M = 2, alpha = 0.95 -> Mejor Distancia: 1.64505e+06
+T = 100, M = 8, alpha = 0.9 -> Mejor Distancia: 1.66099e+06
+T = 100, M = 8, alpha = 0.95 -> Mejor Distancia: 1.64973e+06

@@ -1,0 +1,132 @@
+Jornada 1:
+Philadelphia 76ers vs Brooklyn Nets
+New York Knicks vs Boston Celtics
+Utah Jazz vs Minnesota Timberwolves
+Denver Nuggets vs Oklahoma City Thunder
+----------------------
+Jornada 2:
+Philadelphia 76ers vs Brooklyn Nets
+New York Knicks vs Boston Celtics
+Utah Jazz vs Minnesota Timberwolves
+Denver Nuggets vs Oklahoma City Thunder
+----------------------
+Jornada 3:
+Philadelphia 76ers vs Boston Celtics
+New York Knicks vs Brooklyn Nets
+Utah Jazz vs Oklahoma City Thunder
+Denver Nuggets vs Minnesota Timberwolves
+----------------------
+Jornada 4:
+Philadelphia 76ers vs Boston Celtics
+New York Knicks vs Brooklyn Nets
+Utah Jazz vs Oklahoma City Thunder
+Denver Nuggets vs Minnesota Timberwolves
+----------------------
+Jornada 5:
+Brooklyn Nets vs Boston Celtics
+New York Knicks vs Philadelphia 76ers
+Minnesota Timberwolves vs Oklahoma City Thunder
+Denver Nuggets vs Utah Jazz
+----------------------
+Jornada 6:
+Brooklyn Nets vs Boston Celtics
+New York Knicks vs Philadelphia 76ers
+Minnesota Timberwolves vs Oklahoma City Thunder
+Denver Nuggets vs Utah Jazz
+----------------------
+Jornada 7:
+Boston Celtics vs Philadelphia 76ers
+Brooklyn Nets vs New York Knicks
+Oklahoma City Thunder vs Utah Jazz
+Minnesota Timberwolves vs Denver Nuggets
+----------------------
+Jornada 8:
+Boston Celtics vs Philadelphia 76ers
+Brooklyn Nets vs New York Knicks
+Oklahoma City Thunder vs Utah Jazz
+Minnesota Timberwolves vs Denver Nuggets
+----------------------
+Jornada 9:
+Boston Celtics vs Denver Nuggets
+Brooklyn Nets vs Utah Jazz
+Philadelphia 76ers vs Minnesota Timberwolves
+New York Knicks vs Oklahoma City Thunder
+----------------------
+Jornada 10:
+Boston Celtics vs Oklahoma City Thunder
+Brooklyn Nets vs Minnesota Timberwolves
+Philadelphia 76ers vs Utah Jazz
+New York Knicks vs Denver Nuggets
+----------------------
+Jornada 11:
+Boston Celtics vs Utah Jazz
+Brooklyn Nets vs Denver Nuggets
+Philadelphia 76ers vs Oklahoma City Thunder
+New York Knicks vs Minnesota Timberwolves
+----------------------
+Jornada 12:
+Boston Celtics vs Minnesota Timberwolves
+Brooklyn Nets vs Oklahoma City Thunder
+Philadelphia 76ers vs Denver Nuggets
+New York Knicks vs Utah Jazz
+----------------------
+Jornada 13:
+Boston Celtics vs New York Knicks
+Brooklyn Nets vs Philadelphia 76ers
+Oklahoma City Thunder vs Denver Nuggets
+Minnesota Timberwolves vs Utah Jazz
+----------------------
+Jornada 14:
+Boston Celtics vs New York Knicks
+Brooklyn Nets vs Philadelphia 76ers
+Oklahoma City Thunder vs Denver Nuggets
+Minnesota Timberwolves vs Utah Jazz
+----------------------
+Jornada 15:
+Oklahoma City Thunder vs Philadelphia 76ers
+Minnesota Timberwolves vs New York Knicks
+Utah Jazz vs Boston Celtics
+Denver Nuggets vs Brooklyn Nets
+----------------------
+Jornada 16:
+Oklahoma City Thunder vs New York Knicks
+Minnesota Timberwolves vs Philadelphia 76ers
+Utah Jazz vs Brooklyn Nets
+Denver Nuggets vs Boston Celtics
+----------------------
+Jornada 17:
+Oklahoma City Thunder vs Boston Celtics
+Minnesota Timberwolves vs Brooklyn Nets
+Utah Jazz vs Philadelphia 76ers
+Denver Nuggets vs New York Knicks
+----------------------
+Jornada 18:
+Oklahoma City Thunder vs Brooklyn Nets
+Minnesota Timberwolves vs Boston Celtics
+Utah Jazz vs New York Knicks
+Denver Nuggets vs Philadelphia 76ers
+----------------------
+Jornada 19:
+Boston Celtics vs Brooklyn Nets
+Philadelphia 76ers vs New York Knicks
+Oklahoma City Thunder vs Minnesota Timberwolves
+Utah Jazz vs Denver Nuggets
+----------------------
+Jornada 20:
+Boston Celtics vs Brooklyn Nets
+Philadelphia 76ers vs New York Knicks
+Oklahoma City Thunder vs Minnesota Timberwolves
+Utah Jazz vs Denver Nuggets
+----------------------
+Distancia final: 50534.1
+Boston Celtics: 6377.7 millas recorridas
+Brooklyn Nets: 6442.23 millas recorridas
+Philadelphia 76ers: 6468.05 millas recorridas
+New York Knicks: 5848.55 millas recorridas
+Oklahoma City Thunder: 6773.2 millas recorridas
+Minnesota Timberwolves: 7152.43 millas recorridas
+Utah Jazz: 5741.18 millas recorridas
+Denver Nuggets: 5730.78 millas recorridas
+Equipo con menor distancia recorrida: Denver Nuggets con 5730.78 millas
+Equipo con mayor distancia recorrida: Minnesota Timberwolves con 7152.43 millas
+

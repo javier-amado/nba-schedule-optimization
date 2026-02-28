@@ -1,0 +1,6 @@
+Maximo iter = 100, limite sin mejora = 10 -> Mejor Distancia: 1.11042e+06
+Maximo iter = 100, limite sin mejora = 50 -> Mejor Distancia: 1.13023e+06
+Maximo iter = 200, limite sin mejora = 10 -> Mejor Distancia: 1.10604e+06
+Maximo iter = 200, limite sin mejora = 50 -> Mejor Distancia: 1.08087e+06
+Maximo iter = 400, limite sin mejora = 10 -> Mejor Distancia: 1.04323e+06
+Maximo iter = 400, limite sin mejora = 50 -> Mejor Distancia: 1.04057e+06

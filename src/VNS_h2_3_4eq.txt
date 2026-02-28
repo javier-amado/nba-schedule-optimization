@@ -1,0 +1,56 @@
+Jornada 1:
+Brooklyn Nets vs Boston Celtics
+Philadelphia 76ers vs New York Knicks
+----------------------
+Jornada 2:
+Brooklyn Nets vs Boston Celtics
+Philadelphia 76ers vs New York Knicks
+----------------------
+Jornada 3:
+Brooklyn Nets vs New York Knicks
+Philadelphia 76ers vs Boston Celtics
+----------------------
+Jornada 4:
+Brooklyn Nets vs New York Knicks
+Philadelphia 76ers vs Boston Celtics
+----------------------
+Jornada 5:
+Brooklyn Nets vs Philadelphia 76ers
+New York Knicks vs Boston Celtics
+----------------------
+Jornada 6:
+Brooklyn Nets vs Philadelphia 76ers
+New York Knicks vs Boston Celtics
+----------------------
+Jornada 7:
+Boston Celtics vs Brooklyn Nets
+New York Knicks vs Philadelphia 76ers
+----------------------
+Jornada 8:
+Boston Celtics vs Brooklyn Nets
+New York Knicks vs Philadelphia 76ers
+----------------------
+Jornada 9:
+Boston Celtics vs Philadelphia 76ers
+New York Knicks vs Brooklyn Nets
+----------------------
+Jornada 10:
+Boston Celtics vs Philadelphia 76ers
+New York Knicks vs Brooklyn Nets
+----------------------
+Jornada 11:
+Boston Celtics vs New York Knicks
+Philadelphia 76ers vs Brooklyn Nets
+----------------------
+Jornada 12:
+Boston Celtics vs New York Knicks
+Philadelphia 76ers vs Brooklyn Nets
+----------------------
+Distancia final: 2507.39
+Boston Celtics: 626.47 millas recorridas
+Brooklyn Nets: 626.47 millas recorridas
+Philadelphia 76ers: 626.65 millas recorridas
+New York Knicks: 627.8 millas recorridas
+Equipo con menor distancia recorrida: Boston Celtics con 626.47 millas
+Equipo con mayor distancia recorrida: New York Knicks con 627.8 millas
+

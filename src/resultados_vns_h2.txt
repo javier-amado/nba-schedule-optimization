@@ -1,0 +1,7 @@
+2.28415e+06
+Max iter = 100, limite sin mej = 10, Distancia -> 1.84114e+06
+Max iter = 100, limite sin mej = 50, Distancia -> 1.84352e+06
+Max iter = 200, limite sin mej = 10, Distancia -> 1.83555e+06
+Max iter = 200, limite sin mej = 50, Distancia -> 1.83077e+06
+Max iter = 400, limite sin mej = 10, Distancia -> 1.84869e+06
+Max iter = 400, limite sin mej = 50, Distancia -> 1.81275e+06
