@@ -1,2 +1,2 @@
-Este repositorio incluye los archivos descritos en el Apéndice A de la memoria, desarrollados como parte del Trabajo de Fin de Grado de Javier Amado Lázaro: 
-*El calendario de la NBA: Modelos de optimización y metaheurísticas.*
+This repository includes the files described in Appendix A of the report, developed as part of Javier Amado Lázaro's Bachelor Thesis:
+The NBA Schedule: Optimization Models and Metaheuristics.
