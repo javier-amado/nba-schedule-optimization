@@ -1,0 +1,1591 @@
+Jornada 1:
+Boston Celtics vs Sacramento Kings
+Brooklyn Nets vs Cleveland Cavaliers
+New York Knicks vs Philadelphia 76ers
+Milwaukee Bucks vs Orlando Magic
+Atlanta Hawks vs Toronto Raptors
+Miami Heat vs Memphis Grizzlies
+San Antonio Spurs vs Houston Rockets
+Los Angeles Lakers vs Oklahoma City Thunder
+Phoenix Suns vs New Orleans Pelicans
+----------------------
+Jornada 2:
+New York Knicks vs Indiana Pacers
+Chicago Bulls vs Orlando Magic
+Detroit Pistons vs Cleveland Cavaliers
+Atlanta Hawks vs Charlotte Hornets
+Miami Heat vs Denver Nuggets
+Minnesota Timberwolves vs Toronto Raptors
+Memphis Grizzlies vs Utah Jazz
+Los Angeles Lakers vs Houston Rockets
+Los Angeles Clippers vs Oklahoma City Thunder
+Golden State Warriors vs Dallas Mavericks
+Phoenix Suns vs Philadelphia 76ers
+----------------------
+Jornada 3:
+Washington Wizards vs Minnesota Timberwolves
+----------------------
+Jornada 4:
+Brooklyn Nets vs Indiana Pacers
+Cleveland Cavaliers vs Orlando Magic
+Detroit Pistons vs Toronto Raptors
+Charlotte Hornets vs Houston Rockets
+Atlanta Hawks vs Denver Nuggets
+Golden State Warriors vs Dallas Mavericks
+----------------------
+Jornada 5:
+Toronto Raptors vs Miami Heat
+Milwaukee Bucks vs Minnesota Timberwolves
+Washington Wizards vs Charlotte Hornets
+Atlanta Hawks vs Orlando Magic
+Denver Nuggets vs Boston Celtics
+Portland Trail Blazers vs Philadelphia 76ers
+Memphis Grizzlies vs Utah Jazz
+Dallas Mavericks vs San Antonio Spurs
+Los Angeles Clippers vs New Orleans Pelicans
+Phoenix Suns vs Oklahoma City Thunder
+----------------------
+Jornada 6:
+New York Knicks vs Phoenix Suns
+Chicago Bulls vs Miami Heat
+Detroit Pistons vs Sacramento Kings
+Utah Jazz vs Los Angeles Clippers
+----------------------
+Jornada 7:
+Philadelphia 76ers vs Brooklyn Nets
+Toronto Raptors vs Indiana Pacers
+Cleveland Cavaliers vs Houston Rockets
+Washington Wizards vs Chicago Bulls
+Orlando Magic vs Charlotte Hornets
+Oklahoma City Thunder vs Boston Celtics
+Denver Nuggets vs Los Angeles Lakers
+Portland Trail Blazers vs Milwaukee Bucks
+Memphis Grizzlies vs San Antonio Spurs
+Golden State Warriors vs New Orleans Pelicans
+----------------------
+Jornada 8:
+Brooklyn Nets vs New York Knicks
+Philadelphia 76ers vs Phoenix Suns
+Detroit Pistons vs Houston Rockets
+Utah Jazz vs Milwaukee Bucks
+Denver Nuggets vs Los Angeles Lakers
+Memphis Grizzlies vs Minnesota Timberwolves
+Golden State Warriors vs Sacramento Kings
+----------------------
+Jornada 9:
+Washington Wizards vs Chicago Bulls
+Portland Trail Blazers vs New Orleans Pelicans
+----------------------
+Jornada 10:
+Brooklyn Nets vs Minnesota Timberwolves
+Toronto Raptors vs Phoenix Suns
+Cleveland Cavaliers vs Utah Jazz
+Detroit Pistons vs Los Angeles Lakers
+Washington Wizards vs New York Knicks
+Orlando Magic vs Charlotte Hornets
+Atlanta Hawks vs Miami Heat
+Denver Nuggets vs Milwaukee Bucks
+New Orleans Pelicans vs San Antonio Spurs
+Dallas Mavericks vs Los Angeles Clippers
+Houston Rockets vs Memphis Grizzlies
+Sacramento Kings vs Portland Trail Blazers
+----------------------
+Jornada 11:
+Indiana Pacers vs Minnesota Timberwolves
+Oklahoma City Thunder vs Atlanta Hawks
+Sacramento Kings vs Los Angeles Clippers
+----------------------
+Jornada 12:
+Toronto Raptors vs Los Angeles Lakers
+Indiana Pacers vs Phoenix Suns
+Detroit Pistons vs Milwaukee Bucks
+Washington Wizards vs Utah Jazz
+Miami Heat vs Boston Celtics
+New Orleans Pelicans vs San Antonio Spurs
+Dallas Mavericks vs New York Knicks
+Houston Rockets vs Oklahoma City Thunder
+Golden State Warriors vs Portland Trail Blazers
+----------------------
+Jornada 13:
+Brooklyn Nets vs San Antonio Spurs
+Philadelphia 76ers vs Utah Jazz
+Chicago Bulls vs Minnesota Timberwolves
+Detroit Pistons vs Washington Wizards
+Orlando Magic vs Atlanta Hawks
+Miami Heat vs Cleveland Cavaliers
+New Orleans Pelicans vs Charlotte Hornets
+Dallas Mavericks vs Phoenix Suns
+Los Angeles Clippers vs New York Knicks
+Golden State Warriors vs Los Angeles Lakers
+----------------------
+Jornada 14:
+Chicago Bulls vs Indiana Pacers
+Charlotte Hornets vs Boston Celtics
+Denver Nuggets vs Memphis Grizzlies
+----------------------
+Jornada 15:
+Philadelphia 76ers vs Boston Celtics
+Toronto Raptors vs Brooklyn Nets
+Cleveland Cavaliers vs Milwaukee Bucks
+Miami Heat vs Atlanta Hawks
+Dallas Mavericks vs San Antonio Spurs
+Los Angeles Clippers vs Orlando Magic
+Sacramento Kings vs Portland Trail Blazers
+Golden State Warriors vs Los Angeles Lakers
+----------------------
+Jornada 16:
+Detroit Pistons vs Brooklyn Nets
+Los Angeles Clippers vs Minnesota Timberwolves
+----------------------
+Jornada 17:
+Boston Celtics vs Utah Jazz
+Chicago Bulls vs Washington Wizards
+Milwaukee Bucks vs Memphis Grizzlies
+Miami Heat vs Atlanta Hawks
+Minnesota Timberwolves vs Indiana Pacers
+San Antonio Spurs vs Oklahoma City Thunder
+Dallas Mavericks vs Portland Trail Blazers
+Houston Rockets vs New Orleans Pelicans
+Sacramento Kings vs Los Angeles Lakers
+Golden State Warriors vs New York Knicks
+----------------------
+Jornada 18:
+Boston Celtics vs Toronto Raptors
+Milwaukee Bucks vs Brooklyn Nets
+Charlotte Hornets vs Chicago Bulls
+Utah Jazz vs New York Knicks
+Denver Nuggets vs Oklahoma City Thunder
+New Orleans Pelicans vs Detroit Pistons
+San Antonio Spurs vs Portland Trail Blazers
+Dallas Mavericks vs Golden State Warriors
+Los Angeles Clippers vs Indiana Pacers
+Sacramento Kings vs Orlando Magic
+Phoenix Suns vs Los Angeles Lakers
+----------------------
+Jornada 19:
+Houston Rockets vs Phoenix Suns
+----------------------
+Jornada 20:
+Philadelphia 76ers vs Chicago Bulls
+Toronto Raptors vs Memphis Grizzlies
+Cleveland Cavaliers vs Dallas Mavericks
+Milwaukee Bucks vs Washington Wizards
+Oklahoma City Thunder vs New York Knicks
+Utah Jazz vs Brooklyn Nets
+New Orleans Pelicans vs Miami Heat
+Houston Rockets vs Detroit Pistons
+Sacramento Kings vs Indiana Pacers
+----------------------
+Jornada 21:
+Boston Celtics vs Orlando Magic
+Philadelphia 76ers vs Chicago Bulls
+Indiana Pacers vs Portland Trail Blazers
+Charlotte Hornets vs Cleveland Cavaliers
+Oklahoma City Thunder vs Minnesota Timberwolves
+Denver Nuggets vs New York Knicks
+New Orleans Pelicans vs Golden State Warriors
+Memphis Grizzlies vs Phoenix Suns
+San Antonio Spurs vs Atlanta Hawks
+Dallas Mavericks vs Miami Heat
+Sacramento Kings vs Detroit Pistons
+----------------------
+Jornada 22:
+San Antonio Spurs vs Minnesota Timberwolves
+Los Angeles Clippers vs Boston Celtics
+----------------------
+Jornada 23:
+Toronto Raptors vs Philadelphia 76ers
+Indiana Pacers vs Orlando Magic
+Atlanta Hawks vs Cleveland Cavaliers
+Oklahoma City Thunder vs Houston Rockets
+Portland Trail Blazers vs Detroit Pistons
+New Orleans Pelicans vs Golden State Warriors
+Memphis Grizzlies vs Phoenix Suns
+Los Angeles Lakers vs Miami Heat
+Sacramento Kings vs New York Knicks
+----------------------
+Jornada 24:
+Portland Trail Blazers vs Chicago Bulls
+Dallas Mavericks vs Minnesota Timberwolves
+----------------------
+Jornada 25:
+Toronto Raptors vs Philadelphia 76ers
+Milwaukee Bucks vs Orlando Magic
+Charlotte Hornets vs Brooklyn Nets
+Oklahoma City Thunder vs Houston Rockets
+Utah Jazz vs Detroit Pistons
+Denver Nuggets vs Washington Wizards
+New Orleans Pelicans vs Los Angeles Clippers
+Memphis Grizzlies vs Cleveland Cavaliers
+San Antonio Spurs vs Golden State Warriors
+Los Angeles Lakers vs Boston Celtics
+Phoenix Suns vs Indiana Pacers
+----------------------
+Jornada 26:
+Toronto Raptors vs Orlando Magic
+Milwaukee Bucks vs Los Angeles Clippers
+Charlotte Hornets vs Brooklyn Nets
+Washington Wizards vs Denver Nuggets
+Oklahoma City Thunder vs Utah Jazz
+New Orleans Pelicans vs Atlanta Hawks
+Dallas Mavericks vs Indiana Pacers
+Houston Rockets vs Minnesota Timberwolves
+Los Angeles Lakers vs New York Knicks
+Sacramento Kings vs Chicago Bulls
+Golden State Warriors vs Miami Heat
+Phoenix Suns vs Cleveland Cavaliers
+----------------------
+Jornada 27:
+Memphis Grizzlies vs New York Knicks
+----------------------
+Jornada 28:
+Toronto Raptors vs Denver Nuggets
+Detroit Pistons vs Indiana Pacers
+Charlotte Hornets vs Oklahoma City Thunder
+Washington Wizards vs Milwaukee Bucks
+Atlanta Hawks vs Brooklyn Nets
+Minnesota Timberwolves vs Los Angeles Clippers
+San Antonio Spurs vs Dallas Mavericks
+Houston Rockets vs Cleveland Cavaliers
+Los Angeles Lakers vs Golden State Warriors
+Sacramento Kings vs Miami Heat
+Phoenix Suns vs Chicago Bulls
+----------------------
+Jornada 29:
+Philadelphia 76ers vs Oklahoma City Thunder
+Cleveland Cavaliers vs Milwaukee Bucks
+Detroit Pistons vs Indiana Pacers
+Atlanta Hawks vs Utah Jazz
+Minnesota Timberwolves vs Los Angeles Clippers
+Portland Trail Blazers vs Miami Heat
+New Orleans Pelicans vs Denver Nuggets
+Memphis Grizzlies vs Chicago Bulls
+Houston Rockets vs Golden State Warriors
+Los Angeles Lakers vs Charlotte Hornets
+Sacramento Kings vs Dallas Mavericks
+Phoenix Suns vs Boston Celtics
+----------------------
+Jornada 30:
+Philadelphia 76ers vs Washington Wizards
+Orlando Magic vs Utah Jazz
+----------------------
+Jornada 31:
+Brooklyn Nets vs Toronto Raptors
+Chicago Bulls vs New York Knicks
+Detroit Pistons vs Los Angeles Clippers
+Milwaukee Bucks vs Sacramento Kings
+Washington Wizards vs Atlanta Hawks
+Minnesota Timberwolves vs Golden State Warriors
+Memphis Grizzlies vs Portland Trail Blazers
+San Antonio Spurs vs Denver Nuggets
+Houston Rockets vs Boston Celtics
+----------------------
+Jornada 32:
+Los Angeles Lakers vs Milwaukee Bucks
+----------------------
+Jornada 33:
+Brooklyn Nets vs Atlanta Hawks
+Philadelphia 76ers vs Toronto Raptors
+New York Knicks vs Los Angeles Clippers
+Indiana Pacers vs Sacramento Kings
+Cleveland Cavaliers vs Detroit Pistons
+Washington Wizards vs Oklahoma City Thunder
+Minnesota Timberwolves vs Miami Heat
+New Orleans Pelicans vs Portland Trail Blazers
+Memphis Grizzlies vs Boston Celtics
+San Antonio Spurs vs Los Angeles Lakers
+Phoenix Suns vs Dallas Mavericks
+----------------------
+Jornada 34:
+Boston Celtics vs Los Angeles Clippers
+Brooklyn Nets vs Detroit Pistons
+Philadelphia 76ers vs Dallas Mavericks
+New York Knicks vs Sacramento Kings
+Indiana Pacers vs Miami Heat
+Washington Wizards vs Atlanta Hawks
+Orlando Magic vs New Orleans Pelicans
+Oklahoma City Thunder vs Golden State Warriors
+Memphis Grizzlies vs Denver Nuggets
+San Antonio Spurs vs Utah Jazz
+Phoenix Suns vs Charlotte Hornets
+----------------------
+Jornada 35:
+Chicago Bulls vs Toronto Raptors
+----------------------
+Jornada 36:
+Boston Celtics vs Charlotte Hornets
+Brooklyn Nets vs Sacramento Kings
+Philadelphia 76ers vs Toronto Raptors
+New York Knicks vs Dallas Mavericks
+Detroit Pistons vs Miami Heat
+Washington Wizards vs New Orleans Pelicans
+Atlanta Hawks vs Portland Trail Blazers
+Oklahoma City Thunder vs Los Angeles Lakers
+Utah Jazz vs Orlando Magic
+Denver Nuggets vs Phoenix Suns
+San Antonio Spurs vs Memphis Grizzlies
+Houston Rockets vs Milwaukee Bucks
+----------------------
+Jornada 37:
+Boston Celtics vs Indiana Pacers
+Philadelphia 76ers vs Los Angeles Clippers
+Chicago Bulls vs New Orleans Pelicans
+Cleveland Cavaliers vs Minnesota Timberwolves
+Detroit Pistons vs Milwaukee Bucks
+Charlotte Hornets vs Miami Heat
+Washington Wizards vs Brooklyn Nets
+Orlando Magic vs Sacramento Kings
+Atlanta Hawks vs Houston Rockets
+Utah Jazz vs Memphis Grizzlies
+Denver Nuggets vs Portland Trail Blazers
+San Antonio Spurs vs Golden State Warriors
+Dallas Mavericks vs Los Angeles Lakers
+----------------------
+Jornada 38:
+New York Knicks vs Toronto Raptors
+Minnesota Timberwolves vs Oklahoma City Thunder
+----------------------
+Jornada 39:
+Boston Celtics vs Toronto Raptors
+Philadelphia 76ers vs Indiana Pacers
+Chicago Bulls vs Milwaukee Bucks
+Cleveland Cavaliers vs Brooklyn Nets
+Charlotte Hornets vs Washington Wizards
+Utah Jazz vs Oklahoma City Thunder
+Denver Nuggets vs Dallas Mavericks
+Portland Trail Blazers vs Golden State Warriors
+Sacramento Kings vs Memphis Grizzlies
+----------------------
+Jornada 40:
+Orlando Magic vs Denver Nuggets
+Minnesota Timberwolves vs Phoenix Suns
+----------------------
+Jornada 41:
+Boston Celtics vs Miami Heat
+Philadelphia 76ers vs Charlotte Hornets
+New York Knicks vs Indiana Pacers
+Toronto Raptors vs New Orleans Pelicans
+Chicago Bulls vs Phoenix Suns
+Cleveland Cavaliers vs Brooklyn Nets
+Orlando Magic vs Washington Wizards
+Atlanta Hawks vs Los Angeles Clippers
+Utah Jazz vs Oklahoma City Thunder
+Portland Trail Blazers vs Houston Rockets
+Los Angeles Lakers vs San Antonio Spurs
+----------------------
+Jornada 42:
+Boston Celtics vs Miami Heat
+New York Knicks vs New Orleans Pelicans
+Toronto Raptors vs Charlotte Hornets
+Indiana Pacers vs Los Angeles Clippers
+Cleveland Cavaliers vs Memphis Grizzlies
+Milwaukee Bucks vs Dallas Mavericks
+Atlanta Hawks vs Washington Wizards
+Utah Jazz vs Minnesota Timberwolves
+Portland Trail Blazers vs San Antonio Spurs
+Sacramento Kings vs Houston Rockets
+Golden State Warriors vs Detroit Pistons
+----------------------
+Jornada 43:
+Phoenix Suns vs Detroit Pistons
+----------------------
+Jornada 44:
+Boston Celtics vs New Orleans Pelicans
+Brooklyn Nets vs Milwaukee Bucks
+New York Knicks vs Utah Jazz
+Toronto Raptors vs Portland Trail Blazers
+Indiana Pacers vs Dallas Mavericks
+Orlando Magic vs Philadelphia 76ers
+Atlanta Hawks vs Chicago Bulls
+Oklahoma City Thunder vs Miami Heat
+Denver Nuggets vs Minnesota Timberwolves
+Memphis Grizzlies vs Washington Wizards
+San Antonio Spurs vs Los Angeles Clippers
+Los Angeles Lakers vs Houston Rockets
+Golden State Warriors vs Cleveland Cavaliers
+----------------------
+Jornada 45:
+Boston Celtics vs Milwaukee Bucks
+New York Knicks vs Philadelphia 76ers
+Toronto Raptors vs Utah Jazz
+Indiana Pacers vs Charlotte Hornets
+Orlando Magic vs Minnesota Timberwolves
+Miami Heat vs Golden State Warriors
+Oklahoma City Thunder vs Portland Trail Blazers
+New Orleans Pelicans vs Chicago Bulls
+San Antonio Spurs vs Brooklyn Nets
+Los Angeles Lakers vs Dallas Mavericks
+Los Angeles Clippers vs Houston Rockets
+Sacramento Kings vs Cleveland Cavaliers
+Phoenix Suns vs Washington Wizards
+----------------------
+Jornada 46:
+----------------------
+Jornada 47:
+Boston Celtics vs Minnesota Timberwolves
+Indiana Pacers vs Milwaukee Bucks
+Charlotte Hornets vs Utah Jazz
+Orlando Magic vs Chicago Bulls
+Atlanta Hawks vs Golden State Warriors
+Denver Nuggets vs Oklahoma City Thunder
+Portland Trail Blazers vs Memphis Grizzlies
+San Antonio Spurs vs Detroit Pistons
+Houston Rockets vs Brooklyn Nets
+Los Angeles Clippers vs Dallas Mavericks
+Phoenix Suns vs Sacramento Kings
+----------------------
+Jornada 48:
+New York Knicks vs Boston Celtics
+Miami Heat vs Utah Jazz
+----------------------
+Jornada 49:
+New York Knicks vs Minnesota Timberwolves
+Milwaukee Bucks vs Philadelphia 76ers
+Atlanta Hawks vs Indiana Pacers
+Miami Heat vs Detroit Pistons
+Portland Trail Blazers vs Cleveland Cavaliers
+New Orleans Pelicans vs Houston Rockets
+Memphis Grizzlies vs Golden State Warriors
+San Antonio Spurs vs Chicago Bulls
+Los Angeles Clippers vs Brooklyn Nets
+Phoenix Suns vs Sacramento Kings
+----------------------
+Jornada 50:
+Boston Celtics vs Atlanta Hawks
+Philadelphia 76ers vs Sacramento Kings
+Toronto Raptors vs Houston Rockets
+Milwaukee Bucks vs Charlotte Hornets
+Orlando Magic vs Detroit Pistons
+Utah Jazz vs Washington Wizards
+Denver Nuggets vs Cleveland Cavaliers
+Portland Trail Blazers vs Los Angeles Clippers
+New Orleans Pelicans vs Memphis Grizzlies
+Los Angeles Lakers vs Dallas Mavericks
+Golden State Warriors vs Chicago Bulls
+Phoenix Suns vs San Antonio Spurs
+----------------------
+Jornada 51:
+----------------------
+Jornada 52:
+Boston Celtics vs Atlanta Hawks
+Philadelphia 76ers vs Washington Wizards
+New York Knicks vs Detroit Pistons
+Toronto Raptors vs Sacramento Kings
+Charlotte Hornets vs Indiana Pacers
+Orlando Magic vs Memphis Grizzlies
+Miami Heat vs Cleveland Cavaliers
+Oklahoma City Thunder vs Denver Nuggets
+Minnesota Timberwolves vs Houston Rockets
+Portland Trail Blazers vs Brooklyn Nets
+Los Angeles Lakers vs Chicago Bulls
+Los Angeles Clippers vs San Antonio Spurs
+Phoenix Suns vs Utah Jazz
+----------------------
+Jornada 53:
+Chicago Bulls vs Houston Rockets
+Indiana Pacers vs Cleveland Cavaliers
+Detroit Pistons vs Boston Celtics
+Milwaukee Bucks vs Philadelphia 76ers
+Charlotte Hornets vs Orlando Magic
+Washington Wizards vs Memphis Grizzlies
+Miami Heat vs Los Angeles Clippers
+Oklahoma City Thunder vs Los Angeles Lakers
+Minnesota Timberwolves vs Brooklyn Nets
+New Orleans Pelicans vs Utah Jazz
+Dallas Mavericks vs Denver Nuggets
+Sacramento Kings vs San Antonio Spurs
+----------------------
+Jornada 54:
+----------------------
+Jornada 55:
+Chicago Bulls vs Brooklyn Nets
+Indiana Pacers vs Memphis Grizzlies
+Cleveland Cavaliers vs Orlando Magic
+Milwaukee Bucks vs Houston Rockets
+Charlotte Hornets vs Atlanta Hawks
+Washington Wizards vs Toronto Raptors
+Miami Heat vs Philadelphia 76ers
+Minnesota Timberwolves vs Boston Celtics
+Portland Trail Blazers vs Los Angeles Lakers
+New Orleans Pelicans vs Los Angeles Clippers
+Sacramento Kings vs San Antonio Spurs
+Golden State Warriors vs Denver Nuggets
+----------------------
+Jornada 56:
+----------------------
+Jornada 57:
+Toronto Raptors vs New York Knicks
+Chicago Bulls vs Boston Celtics
+Indiana Pacers vs Houston Rockets
+Cleveland Cavaliers vs Phoenix Suns
+Detroit Pistons vs Orlando Magic
+Charlotte Hornets vs Los Angeles Clippers
+Washington Wizards vs Philadelphia 76ers
+Atlanta Hawks vs Brooklyn Nets
+Miami Heat vs Milwaukee Bucks
+Oklahoma City Thunder vs Dallas Mavericks
+Portland Trail Blazers vs Denver Nuggets
+New Orleans Pelicans vs Utah Jazz
+Golden State Warriors vs San Antonio Spurs
+----------------------
+Jornada 58:
+Brooklyn Nets vs Utah Jazz
+Toronto Raptors vs New York Knicks
+Indiana Pacers vs Orlando Magic
+Cleveland Cavaliers vs Charlotte Hornets
+Detroit Pistons vs Philadelphia 76ers
+Miami Heat vs Milwaukee Bucks
+Oklahoma City Thunder vs Dallas Mavericks
+Minnesota Timberwolves vs Atlanta Hawks
+Denver Nuggets vs Houston Rockets
+Portland Trail Blazers vs Los Angeles Lakers
+Memphis Grizzlies vs New Orleans Pelicans
+San Antonio Spurs vs Phoenix Suns
+Sacramento Kings vs Los Angeles Clippers
+----------------------
+Jornada 59:
+----------------------
+Jornada 60:
+New York Knicks vs Brooklyn Nets
+Chicago Bulls vs Boston Celtics
+Indiana Pacers vs Utah Jazz
+Cleveland Cavaliers vs Charlotte Hornets
+Detroit Pistons vs Philadelphia 76ers
+Miami Heat vs Orlando Magic
+Oklahoma City Thunder vs Milwaukee Bucks
+Minnesota Timberwolves vs New Orleans Pelicans
+Denver Nuggets vs Portland Trail Blazers
+San Antonio Spurs vs Dallas Mavericks
+Los Angeles Clippers vs Los Angeles Lakers
+Golden State Warriors vs Sacramento Kings
+----------------------
+Jornada 61:
+New York Knicks vs Washington Wizards
+Toronto Raptors vs Charlotte Hornets
+Chicago Bulls vs Atlanta Hawks
+Detroit Pistons vs Portland Trail Blazers
+Orlando Magic vs Dallas Mavericks
+Miami Heat vs Boston Celtics
+Oklahoma City Thunder vs New Orleans Pelicans
+Houston Rockets vs Philadelphia 76ers
+Los Angeles Lakers vs Sacramento Kings
+Phoenix Suns vs Denver Nuggets
+----------------------
+Jornada 62:
+Cleveland Cavaliers vs Atlanta Hawks
+Washington Wizards vs Golden State Warriors
+----------------------
+Jornada 63:
+Boston Celtics vs Portland Trail Blazers
+Brooklyn Nets vs Charlotte Hornets
+Chicago Bulls vs Utah Jazz
+Cleveland Cavaliers vs New York Knicks
+Detroit Pistons vs Toronto Raptors
+Orlando Magic vs Golden State Warriors
+San Antonio Spurs vs New Orleans Pelicans
+Houston Rockets vs Dallas Mavericks
+Los Angeles Clippers vs Sacramento Kings
+Phoenix Suns vs Memphis Grizzlies
+----------------------
+Jornada 64:
+Toronto Raptors vs Milwaukee Bucks
+----------------------
+Jornada 65:
+Chicago Bulls vs Charlotte Hornets
+Indiana Pacers vs Golden State Warriors
+Cleveland Cavaliers vs New York Knicks
+Milwaukee Bucks vs Atlanta Hawks
+Orlando Magic vs Portland Trail Blazers
+Miami Heat vs Sacramento Kings
+Minnesota Timberwolves vs Utah Jazz
+San Antonio Spurs vs Philadelphia 76ers
+Los Angeles Lakers vs Memphis Grizzlies
+Los Angeles Clippers vs Denver Nuggets
+Phoenix Suns vs Dallas Mavericks
+----------------------
+Jornada 66:
+Chicago Bulls vs Toronto Raptors
+Detroit Pistons vs Boston Celtics
+Charlotte Hornets vs Golden State Warriors
+Orlando Magic vs Indiana Pacers
+Atlanta Hawks vs New York Knicks
+Miami Heat vs Portland Trail Blazers
+Oklahoma City Thunder vs Philadelphia 76ers
+Minnesota Timberwolves vs Cleveland Cavaliers
+Utah Jazz vs Dallas Mavericks
+New Orleans Pelicans vs Washington Wizards
+Houston Rockets vs Sacramento Kings
+Los Angeles Lakers vs Denver Nuggets
+Phoenix Suns vs Memphis Grizzlies
+----------------------
+Jornada 67:
+Milwaukee Bucks vs Boston Celtics
+----------------------
+Jornada 68:
+Brooklyn Nets vs Portland Trail Blazers
+Chicago Bulls vs Cleveland Cavaliers
+Charlotte Hornets vs New York Knicks
+Orlando Magic vs Indiana Pacers
+Atlanta Hawks vs Philadelphia 76ers
+Oklahoma City Thunder vs San Antonio Spurs
+Denver Nuggets vs Toronto Raptors
+Houston Rockets vs Washington Wizards
+Los Angeles Lakers vs Phoenix Suns
+Los Angeles Clippers vs Dallas Mavericks
+Sacramento Kings vs Minnesota Timberwolves
+----------------------
+Jornada 69:
+Brooklyn Nets vs Golden State Warriors
+Cleveland Cavaliers vs Portland Trail Blazers
+Detroit Pistons vs New Orleans Pelicans
+Milwaukee Bucks vs New York Knicks
+Charlotte Hornets vs Miami Heat
+Atlanta Hawks vs Philadelphia 76ers
+Oklahoma City Thunder vs Washington Wizards
+San Antonio Spurs vs Orlando Magic
+Dallas Mavericks vs Memphis Grizzlies
+Los Angeles Lakers vs Phoenix Suns
+Los Angeles Clippers vs Toronto Raptors
+Sacramento Kings vs Minnesota Timberwolves
+----------------------
+Jornada 70:
+Milwaukee Bucks vs Denver Nuggets
+----------------------
+Jornada 71:
+Chicago Bulls vs Denver Nuggets
+Indiana Pacers vs Brooklyn Nets
+Cleveland Cavaliers vs New Orleans Pelicans
+Oklahoma City Thunder vs Memphis Grizzlies
+Utah Jazz vs Portland Trail Blazers
+San Antonio Spurs vs Boston Celtics
+Los Angeles Lakers vs Washington Wizards
+Los Angeles Clippers vs Phoenix Suns
+Golden State Warriors vs Minnesota Timberwolves
+----------------------
+Jornada 72:
+----------------------
+Jornada 73:
+Chicago Bulls vs Cleveland Cavaliers
+Indiana Pacers vs Brooklyn Nets
+Detroit Pistons vs Denver Nuggets
+Milwaukee Bucks vs New York Knicks
+Charlotte Hornets vs Philadelphia 76ers
+Utah Jazz vs Minnesota Timberwolves
+Memphis Grizzlies vs New Orleans Pelicans
+Dallas Mavericks vs Oklahoma City Thunder
+Houston Rockets vs Miami Heat
+Los Angeles Lakers vs Orlando Magic
+Golden State Warriors vs Washington Wizards
+Phoenix Suns vs Toronto Raptors
+----------------------
+Jornada 74:
+Philadelphia 76ers vs Denver Nuggets
+Indiana Pacers vs Detroit Pistons
+Milwaukee Bucks vs Chicago Bulls
+Atlanta Hawks vs New York Knicks
+Miami Heat vs Toronto Raptors
+Minnesota Timberwolves vs Charlotte Hornets
+Utah Jazz vs Portland Trail Blazers
+San Antonio Spurs vs New Orleans Pelicans
+Dallas Mavericks vs Los Angeles Lakers
+Sacramento Kings vs Washington Wizards
+Golden State Warriors vs Houston Rockets
+Phoenix Suns vs Orlando Magic
+----------------------
+Jornada 75:
+----------------------
+Jornada 76:
+Brooklyn Nets vs New York Knicks
+Philadelphia 76ers vs Indiana Pacers
+Detroit Pistons vs Cleveland Cavaliers
+Atlanta Hawks vs Los Angeles Lakers
+Miami Heat vs Orlando Magic
+Minnesota Timberwolves vs Washington Wizards
+Utah Jazz vs New Orleans Pelicans
+Portland Trail Blazers vs Boston Celtics
+Memphis Grizzlies vs Dallas Mavericks
+San Antonio Spurs vs Oklahoma City Thunder
+Los Angeles Clippers vs Sacramento Kings
+Golden State Warriors vs Houston Rockets
+----------------------
+Jornada 77:
+Brooklyn Nets vs Indiana Pacers
+Philadelphia 76ers vs Los Angeles Lakers
+New York Knicks vs Detroit Pistons
+Cleveland Cavaliers vs Washington Wizards
+Milwaukee Bucks vs Chicago Bulls
+Orlando Magic vs Toronto Raptors
+Atlanta Hawks vs Oklahoma City Thunder
+Miami Heat vs Charlotte Hornets
+Minnesota Timberwolves vs Portland Trail Blazers
+Memphis Grizzlies vs Dallas Mavericks
+Los Angeles Clippers vs Houston Rockets
+Sacramento Kings vs New Orleans Pelicans
+Golden State Warriors vs Boston Celtics
+Phoenix Suns vs San Antonio Spurs
+----------------------
+Jornada 78:
+Charlotte Hornets vs Denver Nuggets
+----------------------
+Jornada 79:
+Brooklyn Nets vs Washington Wizards
+Philadelphia 76ers vs Detroit Pistons
+Chicago Bulls vs Los Angeles Lakers
+Indiana Pacers vs Atlanta Hawks
+Cleveland Cavaliers vs Miami Heat
+Milwaukee Bucks vs San Antonio Spurs
+Orlando Magic vs New York Knicks
+Minnesota Timberwolves vs Portland Trail Blazers
+Memphis Grizzlies vs Denver Nuggets
+Los Angeles Clippers vs Golden State Warriors
+Sacramento Kings vs Boston Celtics
+----------------------
+Jornada 80:
+Utah Jazz vs Boston Celtics
+----------------------
+Jornada 81:
+Brooklyn Nets vs Washington Wizards
+Chicago Bulls vs Detroit Pistons
+Indiana Pacers vs Oklahoma City Thunder
+Cleveland Cavaliers vs Miami Heat
+Milwaukee Bucks vs Atlanta Hawks
+Orlando Magic vs Toronto Raptors
+Minnesota Timberwolves vs Los Angeles Lakers
+Dallas Mavericks vs Denver Nuggets
+Houston Rockets vs New York Knicks
+Sacramento Kings vs New Orleans Pelicans
+Phoenix Suns vs Golden State Warriors
+----------------------
+Jornada 82:
+Brooklyn Nets vs Denver Nuggets
+Chicago Bulls vs San Antonio Spurs
+Cleveland Cavaliers vs Boston Celtics
+Detroit Pistons vs Charlotte Hornets
+Oklahoma City Thunder vs Indiana Pacers
+Memphis Grizzlies vs Atlanta Hawks
+Dallas Mavericks vs New Orleans Pelicans
+Houston Rockets vs Portland Trail Blazers
+Los Angeles Clippers vs Utah Jazz
+Phoenix Suns vs New York Knicks
+----------------------
+Jornada 83:
+----------------------
+Jornada 84:
+Boston Celtics vs Denver Nuggets
+Philadelphia 76ers vs Miami Heat
+Chicago Bulls vs Charlotte Hornets
+Cleveland Cavaliers vs Los Angeles Lakers
+Detroit Pistons vs Minnesota Timberwolves
+Milwaukee Bucks vs Toronto Raptors
+Washington Wizards vs Orlando Magic
+Memphis Grizzlies vs Indiana Pacers
+San Antonio Spurs vs New York Knicks
+Dallas Mavericks vs New Orleans Pelicans
+Houston Rockets vs Atlanta Hawks
+Phoenix Suns vs Utah Jazz
+----------------------
+Jornada 85:
+Brooklyn Nets vs Dallas Mavericks
+Philadelphia 76ers vs Orlando Magic
+New York Knicks vs Miami Heat
+Indiana Pacers vs Los Angeles Lakers
+Cleveland Cavaliers vs Detroit Pistons
+Milwaukee Bucks vs Toronto Raptors
+Washington Wizards vs Phoenix Suns
+Minnesota Timberwolves vs Memphis Grizzlies
+Utah Jazz vs Chicago Bulls
+New Orleans Pelicans vs Houston Rockets
+San Antonio Spurs vs Charlotte Hornets
+Los Angeles Clippers vs Oklahoma City Thunder
+Sacramento Kings vs Golden State Warriors
+----------------------
+Jornada 86:
+Los Angeles Clippers vs Atlanta Hawks
+Sacramento Kings vs Oklahoma City Thunder
+----------------------
+Jornada 87:
+Brooklyn Nets vs Miami Heat
+Philadelphia 76ers vs Houston Rockets
+Chicago Bulls vs Portland Trail Blazers
+Detroit Pistons vs San Antonio Spurs
+Utah Jazz vs Toronto Raptors
+Memphis Grizzlies vs Los Angeles Lakers
+Dallas Mavericks vs Charlotte Hornets
+----------------------
+Jornada 88:
+Boston Celtics vs Washington Wizards
+Milwaukee Bucks vs Portland Trail Blazers
+----------------------
+Jornada 89:
+Brooklyn Nets vs Phoenix Suns
+Philadelphia 76ers vs Orlando Magic
+New York Knicks vs Denver Nuggets
+Toronto Raptors vs San Antonio Spurs
+Washington Wizards vs Houston Rockets
+Minnesota Timberwolves vs Memphis Grizzlies
+New Orleans Pelicans vs Dallas Mavericks
+Los Angeles Lakers vs Utah Jazz
+Sacramento Kings vs Oklahoma City Thunder
+----------------------
+Jornada 90:
+Boston Celtics vs Houston Rockets
+Philadelphia 76ers vs San Antonio Spurs
+Toronto Raptors vs Detroit Pistons
+Chicago Bulls vs Memphis Grizzlies
+Cleveland Cavaliers vs Denver Nuggets
+Milwaukee Bucks vs Indiana Pacers
+Miami Heat vs Dallas Mavericks
+Oklahoma City Thunder vs New Orleans Pelicans
+Minnesota Timberwolves vs Utah Jazz
+Los Angeles Clippers vs Los Angeles Lakers
+Sacramento Kings vs Golden State Warriors
+Phoenix Suns vs Atlanta Hawks
+----------------------
+Jornada 91:
+Indiana Pacers vs Chicago Bulls
+Portland Trail Blazers vs Atlanta Hawks
+----------------------
+Jornada 92:
+Boston Celtics vs Cleveland Cavaliers
+Brooklyn Nets vs Houston Rockets
+New York Knicks vs Washington Wizards
+Toronto Raptors vs Detroit Pistons
+Milwaukee Bucks vs New Orleans Pelicans
+Oklahoma City Thunder vs Los Angeles Clippers
+Denver Nuggets vs Minnesota Timberwolves
+Memphis Grizzlies vs Charlotte Hornets
+Golden State Warriors vs Phoenix Suns
+----------------------
+Jornada 93:
+Boston Celtics vs Philadelphia 76ers
+Brooklyn Nets vs Detroit Pistons
+New York Knicks vs Orlando Magic
+Toronto Raptors vs Cleveland Cavaliers
+Chicago Bulls vs Milwaukee Bucks
+Indiana Pacers vs San Antonio Spurs
+Utah Jazz vs Charlotte Hornets
+Memphis Grizzlies vs Oklahoma City Thunder
+Golden State Warriors vs Phoenix Suns
+----------------------
+Jornada 94:
+Miami Heat vs Indiana Pacers
+Dallas Mavericks vs Chicago Bulls
+Los Angeles Lakers vs Minnesota Timberwolves
+Sacramento Kings vs Atlanta Hawks
+----------------------
+Jornada 95:
+Boston Celtics vs Philadelphia 76ers
+Toronto Raptors vs Washington Wizards
+Orlando Magic vs Detroit Pistons
+Utah Jazz vs San Antonio Spurs
+Denver Nuggets vs New Orleans Pelicans
+Portland Trail Blazers vs Sacramento Kings
+Memphis Grizzlies vs Oklahoma City Thunder
+Houston Rockets vs Los Angeles Clippers
+Los Angeles Lakers vs Atlanta Hawks
+Golden State Warriors vs Charlotte Hornets
+----------------------
+Jornada 96:
+Boston Celtics vs New York Knicks
+Houston Rockets vs Dallas Mavericks
+----------------------
+Jornada 97:
+Brooklyn Nets vs Philadelphia 76ers
+Toronto Raptors vs Cleveland Cavaliers
+Charlotte Hornets vs Milwaukee Bucks
+Orlando Magic vs Los Angeles Clippers
+Miami Heat vs Detroit Pistons
+Oklahoma City Thunder vs Minnesota Timberwolves
+Utah Jazz vs San Antonio Spurs
+Denver Nuggets vs Sacramento Kings
+Portland Trail Blazers vs Phoenix Suns
+Los Angeles Lakers vs New Orleans Pelicans
+Golden State Warriors vs Atlanta Hawks
+----------------------
+Jornada 98:
+Boston Celtics vs Milwaukee Bucks
+Brooklyn Nets vs Los Angeles Clippers
+Philadelphia 76ers vs Cleveland Cavaliers
+Toronto Raptors vs Washington Wizards
+Charlotte Hornets vs Detroit Pistons
+Miami Heat vs Indiana Pacers
+Utah Jazz vs Atlanta Hawks
+Denver Nuggets vs Chicago Bulls
+Portland Trail Blazers vs Phoenix Suns
+Memphis Grizzlies vs Minnesota Timberwolves
+Houston Rockets vs Sacramento Kings
+Los Angeles Lakers vs San Antonio Spurs
+Golden State Warriors vs Orlando Magic
+----------------------
+Jornada 99:
+----------------------
+Jornada 100:
+Boston Celtics vs New York Knicks
+Toronto Raptors vs Los Angeles Clippers
+Indiana Pacers vs Chicago Bulls
+Washington Wizards vs Cleveland Cavaliers
+Oklahoma City Thunder vs Detroit Pistons
+Utah Jazz vs Miami Heat
+Denver Nuggets vs Orlando Magic
+Portland Trail Blazers vs New Orleans Pelicans
+Memphis Grizzlies vs Milwaukee Bucks
+Dallas Mavericks vs Houston Rockets
+Phoenix Suns vs Brooklyn Nets
+----------------------
+Jornada 101:
+New York Knicks vs Chicago Bulls
+Toronto Raptors vs Boston Celtics
+Cleveland Cavaliers vs Los Angeles Clippers
+Charlotte Hornets vs Memphis Grizzlies
+Atlanta Hawks vs Orlando Magic
+Oklahoma City Thunder vs Utah Jazz
+New Orleans Pelicans vs Philadelphia 76ers
+San Antonio Spurs vs Washington Wizards
+Dallas Mavericks vs Milwaukee Bucks
+Los Angeles Lakers vs Detroit Pistons
+Golden State Warriors vs Portland Trail Blazers
+Phoenix Suns vs Miami Heat
+----------------------
+Jornada 102:
+Charlotte Hornets vs Minnesota Timberwolves
+----------------------
+Jornada 103:
+New York Knicks vs Chicago Bulls
+Oklahoma City Thunder vs Sacramento Kings
+Denver Nuggets vs Philadelphia 76ers
+New Orleans Pelicans vs Milwaukee Bucks
+Memphis Grizzlies vs Los Angeles Lakers
+San Antonio Spurs vs Utah Jazz
+Dallas Mavericks vs Phoenix Suns
+Houston Rockets vs Orlando Magic
+Los Angeles Clippers vs Washington Wizards
+----------------------
+Jornada 104:
+Milwaukee Bucks vs Washington Wizards
+Los Angeles Clippers vs Philadelphia 76ers
+----------------------
+Jornada 105:
+New York Knicks vs Charlotte Hornets
+Toronto Raptors vs Boston Celtics
+Cleveland Cavaliers vs Indiana Pacers
+Atlanta Hawks vs Chicago Bulls
+Denver Nuggets vs Miami Heat
+New Orleans Pelicans vs Minnesota Timberwolves
+Memphis Grizzlies vs San Antonio Spurs
+Dallas Mavericks vs Utah Jazz
+Houston Rockets vs Oklahoma City Thunder
+Golden State Warriors vs Brooklyn Nets
+----------------------
+Jornada 106:
+New York Knicks vs Oklahoma City Thunder
+Toronto Raptors vs Brooklyn Nets
+Indiana Pacers vs Miami Heat
+Washington Wizards vs Detroit Pistons
+Orlando Magic vs Los Angeles Lakers
+Atlanta Hawks vs New Orleans Pelicans
+Minnesota Timberwolves vs Phoenix Suns
+Denver Nuggets vs Sacramento Kings
+Dallas Mavericks vs Utah Jazz
+Houston Rockets vs Portland Trail Blazers
+Los Angeles Clippers vs Chicago Bulls
+Golden State Warriors vs Philadelphia 76ers
+----------------------
+Jornada 107:
+Orlando Magic vs Boston Celtics
+Memphis Grizzlies vs Philadelphia 76ers
+----------------------
+Jornada 108:
+Brooklyn Nets vs Atlanta Hawks
+New York Knicks vs Toronto Raptors
+Chicago Bulls vs Miami Heat
+Cleveland Cavaliers vs Oklahoma City Thunder
+Milwaukee Bucks vs Phoenix Suns
+Charlotte Hornets vs New Orleans Pelicans
+Minnesota Timberwolves vs Sacramento Kings
+Denver Nuggets vs Indiana Pacers
+Portland Trail Blazers vs Golden State Warriors
+Dallas Mavericks vs Boston Celtics
+Houston Rockets vs Utah Jazz
+----------------------
+Jornada 109:
+Brooklyn Nets vs Toronto Raptors
+Chicago Bulls vs Golden State Warriors
+Cleveland Cavaliers vs Atlanta Hawks
+Milwaukee Bucks vs Indiana Pacers
+Charlotte Hornets vs Los Angeles Lakers
+Washington Wizards vs Sacramento Kings
+Minnesota Timberwolves vs Detroit Pistons
+Denver Nuggets vs Utah Jazz
+Portland Trail Blazers vs San Antonio Spurs
+New Orleans Pelicans vs Phoenix Suns
+Memphis Grizzlies vs Houston Rockets
+Dallas Mavericks vs Philadelphia 76ers
+Los Angeles Clippers vs Miami Heat
+----------------------
+Jornada 110:
+----------------------
+Jornada 111:
+New York Knicks vs Brooklyn Nets
+Milwaukee Bucks vs Detroit Pistons
+Charlotte Hornets vs Phoenix Suns
+Washington Wizards vs Los Angeles Lakers
+Orlando Magic vs Miami Heat
+Minnesota Timberwolves vs Philadelphia 76ers
+Denver Nuggets vs Atlanta Hawks
+Portland Trail Blazers vs Oklahoma City Thunder
+New Orleans Pelicans vs Boston Celtics
+Dallas Mavericks vs Cleveland Cavaliers
+Los Angeles Clippers vs San Antonio Spurs
+----------------------
+Jornada 112:
+Indiana Pacers vs New York Knicks
+Charlotte Hornets vs Sacramento Kings
+San Antonio Spurs vs Cleveland Cavaliers
+----------------------
+Jornada 113:
+Toronto Raptors vs Indiana Pacers
+Chicago Bulls vs Brooklyn Nets
+Milwaukee Bucks vs Detroit Pistons
+Washington Wizards vs Philadelphia 76ers
+Orlando Magic vs Boston Celtics
+Miami Heat vs Los Angeles Lakers
+Minnesota Timberwolves vs Houston Rockets
+Denver Nuggets vs Utah Jazz
+Portland Trail Blazers vs Oklahoma City Thunder
+New Orleans Pelicans vs Sacramento Kings
+Memphis Grizzlies vs Golden State Warriors
+Dallas Mavericks vs Atlanta Hawks
+----------------------
+Jornada 114:
+Boston Celtics vs Phoenix Suns
+Toronto Raptors vs Golden State Warriors
+Chicago Bulls vs Detroit Pistons
+Washington Wizards vs Brooklyn Nets
+Atlanta Hawks vs Memphis Grizzlies
+Oklahoma City Thunder vs Cleveland Cavaliers
+Utah Jazz vs Houston Rockets
+Denver Nuggets vs Los Angeles Clippers
+Portland Trail Blazers vs New York Knicks
+New Orleans Pelicans vs Los Angeles Lakers
+San Antonio Spurs vs Milwaukee Bucks
+----------------------
+Jornada 115:
+San Antonio Spurs vs Sacramento Kings
+----------------------
+Jornada 116:
+Boston Celtics vs Los Angeles Lakers
+Brooklyn Nets vs Memphis Grizzlies
+Philadelphia 76ers vs Golden State Warriors
+Detroit Pistons vs New York Knicks
+Charlotte Hornets vs Toronto Raptors
+Washington Wizards vs Indiana Pacers
+Orlando Magic vs Phoenix Suns
+Atlanta Hawks vs Milwaukee Bucks
+Miami Heat vs Oklahoma City Thunder
+Minnesota Timberwolves vs Chicago Bulls
+Denver Nuggets vs Los Angeles Clippers
+New Orleans Pelicans vs Cleveland Cavaliers
+Dallas Mavericks vs Portland Trail Blazers
+Sacramento Kings vs Houston Rockets
+----------------------
+Jornada 117:
+Boston Celtics vs Memphis Grizzlies
+Philadelphia 76ers vs New Orleans Pelicans
+Detroit Pistons vs Golden State Warriors
+Charlotte Hornets vs Portland Trail Blazers
+Washington Wizards vs Indiana Pacers
+Orlando Magic vs Cleveland Cavaliers
+Atlanta Hawks vs Dallas Mavericks
+Miami Heat vs Phoenix Suns
+Minnesota Timberwolves vs Denver Nuggets
+Utah Jazz vs Houston Rockets
+San Antonio Spurs vs Toronto Raptors
+Los Angeles Lakers vs Los Angeles Clippers
+----------------------
+Jornada 118:
+Utah Jazz vs Sacramento Kings
+----------------------
+Jornada 119:
+Boston Celtics vs Charlotte Hornets
+Brooklyn Nets vs Oklahoma City Thunder
+Philadelphia 76ers vs Memphis Grizzlies
+New York Knicks vs Portland Trail Blazers
+Indiana Pacers vs Denver Nuggets
+Detroit Pistons vs Chicago Bulls
+Washington Wizards vs Dallas Mavericks
+Orlando Magic vs Milwaukee Bucks
+Atlanta Hawks vs Miami Heat
+Minnesota Timberwolves vs Sacramento Kings
+Los Angeles Lakers vs Golden State Warriors
+Phoenix Suns vs Houston Rockets
+----------------------
+Jornada 120:
+----------------------
+Jornada 121:
+Boston Celtics vs Oklahoma City Thunder
+Brooklyn Nets vs New Orleans Pelicans
+Philadelphia 76ers vs Charlotte Hornets
+Indiana Pacers vs New York Knicks
+Detroit Pistons vs Dallas Mavericks
+Washington Wizards vs Portland Trail Blazers
+Orlando Magic vs Cleveland Cavaliers
+Atlanta Hawks vs Toronto Raptors
+Minnesota Timberwolves vs Denver Nuggets
+Utah Jazz vs Sacramento Kings
+Memphis Grizzlies vs Houston Rockets
+San Antonio Spurs vs Miami Heat
+Los Angeles Clippers vs Golden State Warriors
+Phoenix Suns vs Los Angeles Lakers
+----------------------
+Jornada 122:
+Philadelphia 76ers vs Portland Trail Blazers
+Chicago Bulls vs Dallas Mavericks
+Washington Wizards vs Orlando Magic
+Atlanta Hawks vs Indiana Pacers
+Miami Heat vs Brooklyn Nets
+Oklahoma City Thunder vs Memphis Grizzlies
+Minnesota Timberwolves vs New York Knicks
+Denver Nuggets vs San Antonio Spurs
+Los Angeles Lakers vs Utah Jazz
+Sacramento Kings vs Charlotte Hornets
+Golden State Warriors vs New Orleans Pelicans
+----------------------
+Jornada 123:
+----------------------
+Jornada 124:
+Boston Celtics vs Orlando Magic
+Philadelphia 76ers vs Brooklyn Nets
+Detroit Pistons vs New York Knicks
+Atlanta Hawks vs Milwaukee Bucks
+Miami Heat vs Toronto Raptors
+Oklahoma City Thunder vs Charlotte Hornets
+Minnesota Timberwolves vs Dallas Mavericks
+Denver Nuggets vs San Antonio Spurs
+Portland Trail Blazers vs Indiana Pacers
+Houston Rockets vs Phoenix Suns
+Los Angeles Lakers vs New Orleans Pelicans
+Los Angeles Clippers vs Cleveland Cavaliers
+Sacramento Kings vs Utah Jazz
+Golden State Warriors vs Memphis Grizzlies
+----------------------
+Jornada 125:
+Brooklyn Nets vs Boston Celtics
+New York Knicks vs Atlanta Hawks
+Chicago Bulls vs Philadelphia 76ers
+Washington Wizards vs Miami Heat
+Minnesota Timberwolves vs San Antonio Spurs
+Utah Jazz vs Cleveland Cavaliers
+Portland Trail Blazers vs Denver Nuggets
+New Orleans Pelicans vs Toronto Raptors
+Houston Rockets vs Charlotte Hornets
+Los Angeles Lakers vs Los Angeles Clippers
+Sacramento Kings vs Memphis Grizzlies
+Golden State Warriors vs Indiana Pacers
+Phoenix Suns vs Milwaukee Bucks
+----------------------
+Jornada 126:
+Chicago Bulls vs Oklahoma City Thunder
+----------------------
+Jornada 127:
+Brooklyn Nets vs Boston Celtics
+New York Knicks vs Orlando Magic
+Toronto Raptors vs Oklahoma City Thunder
+Washington Wizards vs Miami Heat
+Minnesota Timberwolves vs San Antonio Spurs
+Utah Jazz vs Philadelphia 76ers
+Denver Nuggets vs Phoenix Suns
+Los Angeles Lakers vs Cleveland Cavaliers
+Los Angeles Clippers vs Charlotte Hornets
+Sacramento Kings vs Milwaukee Bucks
+Golden State Warriors vs Memphis Grizzlies
+----------------------
+Jornada 128:
+Brooklyn Nets vs Orlando Magic
+----------------------
+Jornada 129:
+Boston Celtics vs Cleveland Cavaliers
+New York Knicks vs Miami Heat
+Chicago Bulls vs Washington Wizards
+Detroit Pistons vs Atlanta Hawks
+Minnesota Timberwolves vs New Orleans Pelicans
+Utah Jazz vs Phoenix Suns
+Denver Nuggets vs Dallas Mavericks
+Portland Trail Blazers vs Charlotte Hornets
+Los Angeles Lakers vs Indiana Pacers
+Los Angeles Clippers vs Memphis Grizzlies
+Sacramento Kings vs Philadelphia 76ers
+Golden State Warriors vs Milwaukee Bucks
+----------------------
+Jornada 130:
+Brooklyn Nets vs Miami Heat
+New York Knicks vs Cleveland Cavaliers
+Toronto Raptors vs Orlando Magic
+Chicago Bulls vs Indiana Pacers
+Detroit Pistons vs Oklahoma City Thunder
+Charlotte Hornets vs San Antonio Spurs
+Atlanta Hawks vs Boston Celtics
+Utah Jazz vs Memphis Grizzlies
+Portland Trail Blazers vs Washington Wizards
+Dallas Mavericks vs Sacramento Kings
+Houston Rockets vs Golden State Warriors
+Los Angeles Lakers vs Philadelphia 76ers
+Los Angeles Clippers vs Milwaukee Bucks
+Phoenix Suns vs New Orleans Pelicans
+----------------------
+Jornada 131:
+----------------------
+Jornada 132:
+Philadelphia 76ers vs Cleveland Cavaliers
+Toronto Raptors vs Milwaukee Bucks
+Indiana Pacers vs New Orleans Pelicans
+Detroit Pistons vs Washington Wizards
+Charlotte Hornets vs Orlando Magic
+Minnesota Timberwolves vs Golden State Warriors
+Utah Jazz vs Denver Nuggets
+Dallas Mavericks vs Sacramento Kings
+Houston Rockets vs San Antonio Spurs
+Los Angeles Lakers vs Portland Trail Blazers
+Los Angeles Clippers vs Memphis Grizzlies
+----------------------
+Jornada 133:
+Brooklyn Nets vs Chicago Bulls
+Philadelphia 76ers vs New York Knicks
+Toronto Raptors vs Miami Heat
+Indiana Pacers vs Detroit Pistons
+Milwaukee Bucks vs Golden State Warriors
+Charlotte Hornets vs Cleveland Cavaliers
+Atlanta Hawks vs Sacramento Kings
+Oklahoma City Thunder vs Orlando Magic
+New Orleans Pelicans vs Memphis Grizzlies
+Houston Rockets vs San Antonio Spurs
+Los Angeles Lakers vs Portland Trail Blazers
+Los Angeles Clippers vs Utah Jazz
+Phoenix Suns vs Denver Nuggets
+----------------------
+Jornada 134:
+----------------------
+Jornada 135:
+Philadelphia 76ers vs New York Knicks
+Indiana Pacers vs Boston Celtics
+Milwaukee Bucks vs Miami Heat
+Washington Wizards vs Charlotte Hornets
+Atlanta Hawks vs Detroit Pistons
+Oklahoma City Thunder vs Golden State Warriors
+Utah Jazz vs Denver Nuggets
+Memphis Grizzlies vs Orlando Magic
+Dallas Mavericks vs Houston Rockets
+Los Angeles Clippers vs Portland Trail Blazers
+Phoenix Suns vs Minnesota Timberwolves
+----------------------
+Jornada 136:
+Washington Wizards vs New York Knicks
+----------------------
+Jornada 137:
+Brooklyn Nets vs Chicago Bulls
+Philadelphia 76ers vs Boston Celtics
+Toronto Raptors vs Atlanta Hawks
+Indiana Pacers vs Charlotte Hornets
+Milwaukee Bucks vs Miami Heat
+Orlando Magic vs San Antonio Spurs
+Utah Jazz vs Golden State Warriors
+Denver Nuggets vs Houston Rockets
+Memphis Grizzlies vs Sacramento Kings
+Los Angeles Lakers vs Minnesota Timberwolves
+Los Angeles Clippers vs Detroit Pistons
+Phoenix Suns vs Portland Trail Blazers
+----------------------
+Jornada 138:
+Boston Celtics vs Chicago Bulls
+Brooklyn Nets vs Philadelphia 76ers
+New York Knicks vs Atlanta Hawks
+Indiana Pacers vs Washington Wizards
+Detroit Pistons vs Charlotte Hornets
+Milwaukee Bucks vs Cleveland Cavaliers
+Orlando Magic vs Houston Rockets
+Miami Heat vs San Antonio Spurs
+Oklahoma City Thunder vs Portland Trail Blazers
+Utah Jazz vs Golden State Warriors
+Denver Nuggets vs New Orleans Pelicans
+Dallas Mavericks vs Memphis Grizzlies
+Los Angeles Clippers vs Phoenix Suns
+----------------------
+Jornada 139:
+----------------------
+Jornada 140:
+Brooklyn Nets vs Charlotte Hornets
+New York Knicks vs San Antonio Spurs
+Toronto Raptors vs Chicago Bulls
+Indiana Pacers vs Washington Wizards
+Milwaukee Bucks vs Cleveland Cavaliers
+Miami Heat vs Houston Rockets
+Oklahoma City Thunder vs Los Angeles Clippers
+Utah Jazz vs Los Angeles Lakers
+Portland Trail Blazers vs Orlando Magic
+Sacramento Kings vs Phoenix Suns
+Golden State Warriors vs Denver Nuggets
+----------------------
+Jornada 141:
+Boston Celtics vs Brooklyn Nets
+New York Knicks vs Houston Rockets
+Indiana Pacers vs Toronto Raptors
+Cleveland Cavaliers vs San Antonio Spurs
+Detroit Pistons vs Chicago Bulls
+Milwaukee Bucks vs Oklahoma City Thunder
+Washington Wizards vs Los Angeles Clippers
+Atlanta Hawks vs Charlotte Hornets
+Miami Heat vs Philadelphia 76ers
+Utah Jazz vs Dallas Mavericks
+Portland Trail Blazers vs Minnesota Timberwolves
+New Orleans Pelicans vs Orlando Magic
+Sacramento Kings vs Denver Nuggets
+----------------------
+Jornada 142:
+----------------------
+Jornada 143:
+Boston Celtics vs Brooklyn Nets
+Indiana Pacers vs Milwaukee Bucks
+Washington Wizards vs Cleveland Cavaliers
+Orlando Magic vs Chicago Bulls
+Miami Heat vs Charlotte Hornets
+Minnesota Timberwolves vs Oklahoma City Thunder
+Denver Nuggets vs Detroit Pistons
+Portland Trail Blazers vs Dallas Mavericks
+San Antonio Spurs vs Los Angeles Clippers
+Houston Rockets vs Memphis Grizzlies
+Sacramento Kings vs Los Angeles Lakers
+Golden State Warriors vs Toronto Raptors
+----------------------
+Jornada 144:
+New Orleans Pelicans vs Oklahoma City Thunder
+----------------------
+Jornada 145:
+Boston Celtics vs Detroit Pistons
+Brooklyn Nets vs Milwaukee Bucks
+New York Knicks vs Cleveland Cavaliers
+Orlando Magic vs Philadelphia 76ers
+Atlanta Hawks vs Minnesota Timberwolves
+Miami Heat vs Chicago Bulls
+Denver Nuggets vs Charlotte Hornets
+Portland Trail Blazers vs Dallas Mavericks
+San Antonio Spurs vs Memphis Grizzlies
+Houston Rockets vs Los Angeles Clippers
+Los Angeles Lakers vs Toronto Raptors
+Phoenix Suns vs Golden State Warriors
+----------------------
+Jornada 146:
+Boston Celtics vs Golden State Warriors
+Philadelphia 76ers vs Milwaukee Bucks
+Indiana Pacers vs Cleveland Cavaliers
+Detroit Pistons vs Orlando Magic
+Atlanta Hawks vs Phoenix Suns
+Miami Heat vs New Orleans Pelicans
+Oklahoma City Thunder vs Denver Nuggets
+Portland Trail Blazers vs Utah Jazz
+Memphis Grizzlies vs Los Angeles Clippers
+San Antonio Spurs vs Minnesota Timberwolves
+Dallas Mavericks vs Washington Wizards
+Houston Rockets vs Chicago Bulls
+Los Angeles Lakers vs Brooklyn Nets
+Sacramento Kings vs Toronto Raptors
+----------------------
+Jornada 147:
+----------------------
+Jornada 148:
+New York Knicks vs Boston Celtics
+Cleveland Cavaliers vs Philadelphia 76ers
+Detroit Pistons vs Utah Jazz
+Milwaukee Bucks vs Brooklyn Nets
+Charlotte Hornets vs Atlanta Hawks
+Miami Heat vs Washington Wizards
+Oklahoma City Thunder vs Chicago Bulls
+Minnesota Timberwolves vs Orlando Magic
+Portland Trail Blazers vs Toronto Raptors
+New Orleans Pelicans vs Phoenix Suns
+San Antonio Spurs vs Indiana Pacers
+Dallas Mavericks vs Los Angeles Clippers
+Los Angeles Lakers vs Sacramento Kings
+----------------------
+Jornada 149:
+Philadelphia 76ers vs Atlanta Hawks
+New York Knicks vs Golden State Warriors
+Detroit Pistons vs Phoenix Suns
+Milwaukee Bucks vs Utah Jazz
+Charlotte Hornets vs Boston Celtics
+Miami Heat vs Washington Wizards
+Oklahoma City Thunder vs Toronto Raptors
+New Orleans Pelicans vs Indiana Pacers
+Memphis Grizzlies vs Brooklyn Nets
+San Antonio Spurs vs Sacramento Kings
+Dallas Mavericks vs Orlando Magic
+Houston Rockets vs Minnesota Timberwolves
+Los Angeles Lakers vs Denver Nuggets
+Los Angeles Clippers vs Portland Trail Blazers
+----------------------
+Jornada 150:
+----------------------
+Jornada 151:
+Boston Celtics vs Detroit Pistons
+Cleveland Cavaliers vs Golden State Warriors
+Charlotte Hornets vs Chicago Bulls
+Orlando Magic vs Washington Wizards
+Miami Heat vs New York Knicks
+Oklahoma City Thunder vs Phoenix Suns
+Utah Jazz vs Los Angeles Lakers
+New Orleans Pelicans vs Brooklyn Nets
+Memphis Grizzlies vs Sacramento Kings
+San Antonio Spurs vs Portland Trail Blazers
+Dallas Mavericks vs Minnesota Timberwolves
+Houston Rockets vs Toronto Raptors
+----------------------
+Jornada 152:
+----------------------
+Jornada 153:
+Boston Celtics vs Chicago Bulls
+Philadelphia 76ers vs Atlanta Hawks
+Cleveland Cavaliers vs Sacramento Kings
+Milwaukee Bucks vs Los Angeles Lakers
+Charlotte Hornets vs Detroit Pistons
+Orlando Magic vs Brooklyn Nets
+Miami Heat vs New York Knicks
+Oklahoma City Thunder vs Phoenix Suns
+Utah Jazz vs Indiana Pacers
+New Orleans Pelicans vs Portland Trail Blazers
+San Antonio Spurs vs Houston Rockets
+Dallas Mavericks vs Toronto Raptors
+Los Angeles Clippers vs Denver Nuggets
+Golden State Warriors vs Minnesota Timberwolves
+----------------------
+Jornada 154:
+Boston Celtics vs San Antonio Spurs
+Brooklyn Nets vs Los Angeles Lakers
+New York Knicks vs Milwaukee Bucks
+Chicago Bulls vs Sacramento Kings
+Cleveland Cavaliers vs Indiana Pacers
+Charlotte Hornets vs Washington Wizards
+Orlando Magic vs Atlanta Hawks
+Utah Jazz vs Los Angeles Clippers
+Portland Trail Blazers vs Minnesota Timberwolves
+Memphis Grizzlies vs Toronto Raptors
+Dallas Mavericks vs Detroit Pistons
+Houston Rockets vs Denver Nuggets
+Golden State Warriors vs Oklahoma City Thunder
+----------------------
+Jornada 155:
+----------------------
+Jornada 156:
+Philadelphia 76ers vs Milwaukee Bucks
+New York Knicks vs Los Angeles Lakers
+Chicago Bulls vs Los Angeles Clippers
+Cleveland Cavaliers vs Boston Celtics
+Charlotte Hornets vs Toronto Raptors
+Washington Wizards vs San Antonio Spurs
+Orlando Magic vs Miami Heat
+Atlanta Hawks vs Detroit Pistons
+Portland Trail Blazers vs Memphis Grizzlies
+New Orleans Pelicans vs Denver Nuggets
+Dallas Mavericks vs Brooklyn Nets
+Houston Rockets vs Indiana Pacers
+Golden State Warriors vs Oklahoma City Thunder
+Phoenix Suns vs Minnesota Timberwolves
+----------------------
+Jornada 157:
+Philadelphia 76ers vs Minnesota Timberwolves
+Toronto Raptors vs Dallas Mavericks
+Indiana Pacers vs Boston Celtics
+Cleveland Cavaliers vs Chicago Bulls
+Washington Wizards vs Milwaukee Bucks
+Atlanta Hawks vs San Antonio Spurs
+Oklahoma City Thunder vs Brooklyn Nets
+Portland Trail Blazers vs Sacramento Kings
+New Orleans Pelicans vs Los Angeles Lakers
+Memphis Grizzlies vs Detroit Pistons
+Houston Rockets vs Denver Nuggets
+Golden State Warriors vs Utah Jazz
+Phoenix Suns vs Los Angeles Clippers
+----------------------
+Jornada 158:
+----------------------
+Jornada 159:
+New York Knicks vs Memphis Grizzlies
+Toronto Raptors vs Minnesota Timberwolves
+Indiana Pacers vs Philadelphia 76ers
+Cleveland Cavaliers vs Chicago Bulls
+Detroit Pistons vs Atlanta Hawks
+Charlotte Hornets vs Milwaukee Bucks
+Washington Wizards vs Boston Celtics
+Denver Nuggets vs Golden State Warriors
+New Orleans Pelicans vs Oklahoma City Thunder
+Sacramento Kings vs Brooklyn Nets
+Phoenix Suns vs Los Angeles Clippers
+----------------------
+Jornada 160:
+Charlotte Hornets vs Dallas Mavericks
+New Orleans Pelicans vs New York Knicks
+----------------------
+Jornada 161:
+Chicago Bulls vs Atlanta Hawks
+Indiana Pacers vs Philadelphia 76ers
+Cleveland Cavaliers vs Toronto Raptors
+Detroit Pistons vs Memphis Grizzlies
+Washington Wizards vs Boston Celtics
+Orlando Magic vs Oklahoma City Thunder
+Miami Heat vs Minnesota Timberwolves
+Denver Nuggets vs Brooklyn Nets
+Houston Rockets vs Los Angeles Lakers
+Sacramento Kings vs Utah Jazz
+Golden State Warriors vs Los Angeles Clippers
+----------------------
+Jornada 162:
+Boston Celtics vs Dallas Mavericks
+Chicago Bulls vs Philadelphia 76ers
+Cleveland Cavaliers vs Toronto Raptors
+Orlando Magic vs Brooklyn Nets
+Atlanta Hawks vs Washington Wizards
+Minnesota Timberwolves vs Milwaukee Bucks
+Portland Trail Blazers vs Utah Jazz
+Memphis Grizzlies vs Miami Heat
+San Antonio Spurs vs Los Angeles Lakers
+Houston Rockets vs New Orleans Pelicans
+Sacramento Kings vs Phoenix Suns
+Golden State Warriors vs Los Angeles Clippers
+----------------------
+Jornada 163:
+Charlotte Hornets vs New York Knicks
+New Orleans Pelicans vs Dallas Mavericks
+Phoenix Suns vs Oklahoma City Thunder
+----------------------
+Distancia final: 1.28141e+06
+Boston Celtics: 37572.4 millas recorridas
+Brooklyn Nets: 42700.3 millas recorridas
+Philadelphia 76ers: 39242.3 millas recorridas
+New York Knicks: 36247.3 millas recorridas
+Toronto Raptors: 34547.9 millas recorridas
+Chicago Bulls: 37766.3 millas recorridas
+Indiana Pacers: 41068.2 millas recorridas
+Cleveland Cavaliers: 35120.5 millas recorridas
+Detroit Pistons: 41165.8 millas recorridas
+Milwaukee Bucks: 38476.4 millas recorridas
+Charlotte Hornets: 47213.9 millas recorridas
+Washington Wizards: 37317.2 millas recorridas
+Orlando Magic: 49352.2 millas recorridas
+Atlanta Hawks: 34648.2 millas recorridas
+Miami Heat: 39941.3 millas recorridas
+Oklahoma City Thunder: 44628.6 millas recorridas
+Minnesota Timberwolves: 50210.8 millas recorridas
+Utah Jazz: 45207 millas recorridas
+Denver Nuggets: 43343 millas recorridas
+Portland Trail Blazers: 54197.8 millas recorridas
+New Orleans Pelicans: 46373.1 millas recorridas
+Memphis Grizzlies: 45722.8 millas recorridas
+San Antonio Spurs: 41587.9 millas recorridas
+Dallas Mavericks: 45582.8 millas recorridas
+Houston Rockets: 39515.2 millas recorridas
+Los Angeles Lakers: 40244 millas recorridas
+Los Angeles Clippers: 43134.6 millas recorridas
+Sacramento Kings: 50925.7 millas recorridas
+Golden State Warriors: 51254.4 millas recorridas
+Phoenix Suns: 47101.2 millas recorridas
+Equipo con menor distancia recorrida: Toronto Raptors con 34547.9 millas
+Equipo con mayor distancia recorrida: Portland Trail Blazers con 54197.8 millas
+Media de millas recorridas Conferencia Este: 39492 Millas Totales: 592380
+Media de millas recorridas Conferencia Oeste: 45935.3 Millas Totales: 689029

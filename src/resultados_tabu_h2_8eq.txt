@@ -1,0 +1,9 @@
+Max iter = 100, Tabu size = 10, Distancia -> 51746.6
+Max iter = 100, Tabu size = 50, Distancia -> 50976.1
+Max iter = 100, Tabu size = 100, Distancia -> 50534.1
+Max iter = 200, Tabu size = 10, Distancia -> 51746.6
+Max iter = 200, Tabu size = 50, Distancia -> 50976.1
+Max iter = 200, Tabu size = 100, Distancia -> 50534.1
+Max iter = 500, Tabu size = 10, Distancia -> 51746.6
+Max iter = 500, Tabu size = 50, Distancia -> 50976.1
+Max iter = 500, Tabu size = 100, Distancia -> 50534.1
